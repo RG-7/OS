@@ -1,3 +1,8 @@
+/*
+	Simulate and compare the performance of three-page replacement algorithms – FIFO (FirstIn-First-Out), LRU (Least Recently Used), and Optimal – in a virtual memory management 
+	system.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
